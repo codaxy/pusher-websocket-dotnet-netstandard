@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>PusherClient</id>
+    <id>PusherClientSilent</id>
     <version>$version$</version>
     <title>Pusher .NET Client Library</title>
     <authors>Pusher, Phil Leggetter</authors>
